@@ -5,11 +5,10 @@ From Sales to Data Science 🚀
 
 - 🔄 Career Switcher: 8+ years in Sales, now chasing insights with data
 - 📊 Exploring Data Analytics, Forecasting & Business Intelligence
-- 🛠 Tools: `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `SQL`
 - 📈 Projects: Superstore Sales Dashboard | Sales Forecasting | Customer Segmentation
 - 🧠 Learning: APIs, Dashboards, and Machine Learning
 - 🏕️ Building my dream: StayMonk — Hostels, Coworking, and Cafés for modern travelers
-- 🌍 From: Himachal Pradesh | 🧗 Passionate about travel, fitness & entrepreneurship
+- 🧗 Passionate about travel, fitness & entrepreneurship
 
 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/suchet-mahajan/)  
 
