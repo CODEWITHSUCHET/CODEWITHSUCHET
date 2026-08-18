@@ -170,17 +170,15 @@ Team Management
 
 SELECTED WORK
 
-My GitHub reflects hands-on work across business analytics, software development, AI, data and technology experimentation.
-
-The focus is on understanding the problem first and using the right combination of business analysis, data, technology and AI to approach it.
-
-AREAS OF WORK
-
 <div align="center">
 
-Business Analysis · Data Analysis · Software Development
+BUSINESS & ANALYTICS
 
-AI & Automation · Technology Solutions · Digital Products
+Business Analysis · Data Analysis · Market Analysis · KPI Analysis
+
+TECHNOLOGY & AI
+
+Software Development · AI & Automation · Technology Solutions · Digital Products
 
 </div>
 
