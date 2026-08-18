@@ -4,119 +4,130 @@
 
 ### BUSINESS × TECHNOLOGY × AI
 
-**Technology Consulting | Management Consulting | Digital Transformation**
+**Technology Consulting · Management Consulting · Digital Transformation**
 
 <br>
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge\&logo=googlechrome\&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](YOUR_X_URL)
-[![CONTACT-EA4335](https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![X](https://img.shields.io/badge/X-111111?style=for-the-badge\&logo=x\&logoColor=white)](YOUR_X_URL)
+[![CONTACT](https://img.shields.io/badge/CONTACT-B91C1C?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=BUSINESS%20%E2%80%A2%20TECHNOLOGY%20%E2%80%A2%20AI&fontSize=34&fontColor=ffffff&fontAlignY=55&color=0:111827,50:243B53,100:0F766E" width="100%"/>
 
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1e3a5f,100:0f766e&height=180&section=header&text=Business%20%C3%97%20Technology%20%C3%97%20AI&fontSize=38&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
-
-</div>
 
 ## ABOUT ME
 
-I bring **8+ years of experience across Sales, Banking, EdTech and Business Development**, combined with hands-on experience in **technology, AI, data and digital products**.
+I bring **8+ years of professional experience across Sales, Banking, EdTech and Business Development**, combined with hands-on experience across **technology, AI, data and digital products**.
 
-My focus is at the intersection of **business problems and technology solutions** — understanding the business context, analysing the problem, identifying opportunities for technology and AI, and translating strategy into practical solutions.
+My work sits at the intersection of **business and technology** — understanding business problems, analysing opportunities, evaluating technology solutions and translating ideas into practical implementation.
 
-### Areas of Focus
-
-**Technology Consulting**
-**Management & Business Consulting**
-**AI Strategy & Implementation**
-**Digital Transformation**
-**Business & Technology Strategy**
-**Data-driven Decision Making**
+My professional direction is focused on **Technology Consulting and Management Consulting**, particularly where business strategy, technology and AI intersect.
 
 ---
 
-## BUSINESS × TECHNOLOGY
+## BUSINESS → TECHNOLOGY → OUTCOME
 
 <div align="center">
 
-**BUSINESS PROBLEM**
+### BUSINESS PROBLEM
 
-↓
+    ↓    
 
-**ANALYSIS & STRATEGY**
+### ANALYSIS
 
-↓
+    ↓    
 
-**TECHNOLOGY & AI**
+### STRATEGY
 
-↓
+    ↓    
 
-**IMPLEMENTATION**
+### TECHNOLOGY & AI
 
-↓
+    ↓    
 
-**BUSINESS OUTCOME**
+### IMPLEMENTATION
+
+    ↓    
+
+### BUSINESS OUTCOME
 
 </div>
 
-> **I don't start with technology. I start with the problem.**
-
----
-
-## CONSULTING & BUSINESS CAPABILITIES
+<br>
 
 <div align="center">
 
-![Business Strategy](https://img.shields.io/badge/Business_Strategy-1F2937?style=for-the-badge)
-![Technology Strategy](https://img.shields.io/badge/Technology_Strategy-1F2937?style=for-the-badge)
-![Digital Transformation](https://img.shields.io/badge/Digital_Transformation-1F2937?style=for-the-badge)
-![AI Strategy](https://img.shields.io/badge/AI_Strategy-1F2937?style=for-the-badge)
-
-![Business Analysis](https://img.shields.io/badge/Business_Analysis-1F2937?style=for-the-badge)
-![Process Optimization](https://img.shields.io/badge/Process_Optimization-1F2937?style=for-the-badge)
-![Product Strategy](https://img.shields.io/badge/Product_Strategy-1F2937?style=for-the-badge)
-![Market Analysis](https://img.shields.io/badge/Market_Analysis-1F2937?style=for-the-badge)
-
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-1F2937?style=for-the-badge)
-![Strategic Thinking](https://img.shields.io/badge/Strategic_Thinking-1F2937?style=for-the-badge)
-![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-1F2937?style=for-the-badge)
-![Go To Market](https://img.shields.io/badge/Go_To_Market-1F2937?style=for-the-badge)
+> **I start with the problem, not the technology.**
 
 </div>
 
 ---
 
-## TECHNOLOGY
+# CONSULTING CAPABILITIES
+
+<div align="center">
+
+![Business Strategy](https://img.shields.io/badge/BUSINESS%20STRATEGY-172033?style=for-the-badge)
+![Technology Strategy](https://img.shields.io/badge/TECHNOLOGY%20STRATEGY-172033?style=for-the-badge)
+![Digital Transformation](https://img.shields.io/badge/DIGITAL%20TRANSFORMATION-172033?style=for-the-badge)
+
+![Business Analysis](https://img.shields.io/badge/BUSINESS%20ANALYSIS-172033?style=for-the-badge)
+![AI Strategy](https://img.shields.io/badge/AI%20STRATEGY-172033?style=for-the-badge)
+![Process Optimization](https://img.shields.io/badge/PROCESS%20OPTIMIZATION-172033?style=for-the-badge)
+
+![Product Strategy](https://img.shields.io/badge/PRODUCT%20STRATEGY-172033?style=for-the-badge)
+![Market Analysis](https://img.shields.io/badge/MARKET%20ANALYSIS-172033?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/PROBLEM%20SOLVING-172033?style=for-the-badge)
+
+![Strategic Thinking](https://img.shields.io/badge/STRATEGIC%20THINKING-172033?style=for-the-badge)
+![Stakeholder Management](https://img.shields.io/badge/STAKEHOLDER%20MANAGEMENT-172033?style=for-the-badge)
+![Go To Market](https://img.shields.io/badge/GO--TO--MARKET-172033?style=for-the-badge)
+
+</div>
+
+---
+
+# TECHNOLOGY
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,html,css,git,github,supabase,postgres,vercel,docker,linux&perline=7" />
 
-<br><br>
+</div>
 
-`REST APIs` · `API Integration` · `AI APIs` · `LLMs` · `AI Agents` · `Automation`
+<br>
 
-`OAuth` · `Authentication` · `Database Design` · `Web Applications` · `Cloud`
+<div align="center">
+
+`REST APIs` · `API Integration` · `AI APIs` · `LLMs`
+
+`AI Agents` · `Automation` · `OAuth` · `Authentication`
+
+`Database Design` · `Web Applications` · `Cloud`
 
 </div>
 
 ---
 
-## DATA & ANALYTICS
+# DATA & ANALYTICS
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
 
-<br>
+<br><br>
 
 `Business Analytics` · `Data Analysis` · `Business Intelligence`
 
@@ -126,22 +137,23 @@ My focus is at the intersection of **business problems and technology solutions*
 
 ---
 
-## AI & EMERGING TECHNOLOGY
+# AI & EMERGING TECHNOLOGY
 
 <div align="center">
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-111827?style=for-the-badge)
-![Large Language Models](https://img.shields.io/badge/Large_Language_Models-111827?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-111827?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-172033?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/GENERATIVE%20AI-172033?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LARGE%20LANGUAGE%20MODELS-172033?style=for-the-badge)
+
+![AI Agents](https://img.shields.io/badge/AI%20AGENTS-172033?style=for-the-badge)
+![Automation](https://img.shields.io/badge/AUTOMATION-172033?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/PROMPT%20ENGINEERING-172033?style=for-the-badge)
 
 </div>
 
 ---
 
-## PROFESSIONAL STRENGTHS
+# PROFESSIONAL STRENGTHS
 
 <div align="center">
 
@@ -156,53 +168,43 @@ My focus is at the intersection of **business problems and technology solutions*
 
 ---
 
-## SELECTED WORK & LEARNING
+# SELECTED WORK
 
-My GitHub includes hands-on work across **business analytics, data analysis, software development, AI and technology experimentation**.
+My GitHub contains hands-on work across **business analytics, software development, AI, data and technology experimentation**.
 
-The objective is not simply to write code, but to understand:
+The focus is on applying technology to understand and solve practical problems rather than technology for its own sake.
 
-> **What is the business problem?**
-> **What does the data tell us?**
-> **Where can technology create leverage?**
-> **How can the solution be implemented?**
+### Areas represented across my work
 
----
+`Business Analysis` · `Data Analysis` · `Software Development`
 
-## GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=CODEWITHSUCHET&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="175"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEWITHSUCHET&layout=compact&hide_border=true&theme=transparent" height="175"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=CODEWITHSUCHET&hide_border=true&theme=transparent" />
-
-</div>
+`AI & Automation` · `Technology Solutions` · `Digital Products`
 
 ---
 
-## PROFESSIONAL BACKGROUND
+# PROFESSIONAL BACKGROUND
 
-**8+ Years — Sales | Banking | EdTech | Business Development**
+**8+ Years**
 
-**MBA — Sales & Marketing**
+Sales · Banking · EdTech · Business Development
 
-**Technology | AI | Data | Product Development**
+**MBA**
+
+Sales & Marketing
+
+**Technical Focus**
+
+Technology · AI · Data · Product Development
 
 ---
 
-## CURRENT INTERESTS
+# EDUCATION & CONTINUOUS LEARNING
 
-**Technology Consulting**
-**Management Consulting**
-**AI & Digital Transformation**
-**Business Strategy**
-**Technology Strategy**
-**Product & Process Optimization**
+My technical development spans **software engineering, data analytics, artificial intelligence, APIs, databases and modern web technologies**.
+
+I continuously work across both sides of the problem:
+
+**Business understanding + Technical execution**
 
 ---
 
@@ -210,10 +212,10 @@ The objective is not simply to write code, but to understand:
 
 ## BUSINESS × TECHNOLOGY × AI
 
-**Turning business problems into technology-led solutions.**
+### Turning business problems into technology-led solutions.
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=CODEWITHSUCHET\&style=for-the-badge\&color=1f2937)
+[![LinkedIn](https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
 
 </div>
