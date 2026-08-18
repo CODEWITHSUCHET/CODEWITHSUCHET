@@ -8,9 +8,9 @@
 
 <br>
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://in.linkedin.com/in/suchet-mahajan)
 [![X](https://img.shields.io/badge/X-111111?style=for-the-badge\&logo=x\&logoColor=white)](YOUR_X_URL)
-[![CONTACT](https://img.shields.io/badge/CONTACT-B91C1C?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![CONTACT](https://img.shields.io/badge/CONTACT-B91C1C?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:suchet.mahajan5@gmail.com)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=BUSINESS%20%E2%80%A2%20TECHNOLOGY%20%E2%80%A2%20AI&fontSize=34&fontColor=ffffff&fontAlignY=55&color=0:111827,50:243B53,100:0F766E" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=145&section=header&color=0:111827,45:1E3A5F,75:0F766E,100:0F172A" width="100%"/>
 
 </div>
 
@@ -26,11 +26,11 @@
 
 ## ABOUT ME
 
-I bring **8+ years of professional experience across Sales, Banking, EdTech and Business Development**, combined with hands-on experience across **technology, AI, data and digital products**.
+I bring **8+ years of professional experience across Sales, Banking, EdTech and Business Development**, combined with hands-on experience in **technology, AI, data and digital products**.
 
 My work sits at the intersection of **business and technology** — understanding business problems, analysing opportunities, evaluating technology solutions and translating ideas into practical implementation.
 
-My professional direction is focused on **Technology Consulting and Management Consulting**, particularly where business strategy, technology and AI intersect.
+I am now focused on opportunities in **Technology Consulting and Management Consulting**, where business understanding, technology and AI come together to solve complex problems.
 
 ---
 
@@ -38,27 +38,27 @@ My professional direction is focused on **Technology Consulting and Management C
 
 <div align="center">
 
-### BUSINESS PROBLEM
+**BUSINESS PROBLEM**
 
-    ↓    
+    ↓
 
-### ANALYSIS
+**ANALYSIS**
 
-    ↓    
+    ↓
 
-### STRATEGY
+**STRATEGY**
 
-    ↓    
+    ↓
 
-### TECHNOLOGY & AI
+**TECHNOLOGY & AI**
 
-    ↓    
+    ↓
 
-### IMPLEMENTATION
+**IMPLEMENTATION**
 
-    ↓    
+    ↓
 
-### BUSINESS OUTCOME
+**BUSINESS OUTCOME**
 
 </div>
 
@@ -72,7 +72,7 @@ My professional direction is focused on **Technology Consulting and Management C
 
 ---
 
-# CONSULTING CAPABILITIES
+## CONSULTING CAPABILITIES
 
 <div align="center">
 
@@ -96,29 +96,25 @@ My professional direction is focused on **Technology Consulting and Management C
 
 ---
 
-# TECHNOLOGY
+## TECHNOLOGY
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,html,css,git,github,supabase,postgres,vercel,docker,linux&perline=7" />
 
-</div>
+<br><br>
 
-<br>
+`REST APIs` · `API Integration` · `AI APIs` · `LLMs` · `AI Agents`
 
-<div align="center">
+`Automation` · `OAuth` · `Authentication` · `Database Design`
 
-`REST APIs` · `API Integration` · `AI APIs` · `LLMs`
-
-`AI Agents` · `Automation` · `OAuth` · `Authentication`
-
-`Database Design` · `Web Applications` · `Cloud`
+`Web Applications` · `Cloud` · `Product Development`
 
 </div>
 
 ---
 
-# DATA & ANALYTICS
+## DATA & ANALYTICS
 
 <div align="center">
 
@@ -137,13 +133,13 @@ My professional direction is focused on **Technology Consulting and Management C
 
 ---
 
-# AI & EMERGING TECHNOLOGY
+## AI & EMERGING TECHNOLOGY
 
 <div align="center">
 
 ![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-172033?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/GENERATIVE%20AI-172033?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LARGE%20LANGUAGE%20MODELS-172033?style=for-the-badge)
+![Large Language Models](https://img.shields.io/badge/LARGE%20LANGUAGE%20MODELS-172033?style=for-the-badge)
 
 ![AI Agents](https://img.shields.io/badge/AI%20AGENTS-172033?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/AUTOMATION-172033?style=for-the-badge)
@@ -153,7 +149,7 @@ My professional direction is focused on **Technology Consulting and Management C
 
 ---
 
-# PROFESSIONAL STRENGTHS
+## PROFESSIONAL STRENGTHS
 
 <div align="center">
 
@@ -168,13 +164,13 @@ My professional direction is focused on **Technology Consulting and Management C
 
 ---
 
-# SELECTED WORK
+## SELECTED WORK
 
-My GitHub contains hands-on work across **business analytics, software development, AI, data and technology experimentation**.
+My GitHub reflects hands-on work across **business analytics, software development, AI, data and technology experimentation**.
 
-The focus is on applying technology to understand and solve practical problems rather than technology for its own sake.
+The focus is on understanding the problem first and using the right combination of **business analysis, data, technology and AI** to approach it.
 
-### Areas represented across my work
+### Areas of Work
 
 `Business Analysis` · `Data Analysis` · `Software Development`
 
@@ -182,29 +178,27 @@ The focus is on applying technology to understand and solve practical problems r
 
 ---
 
-# PROFESSIONAL BACKGROUND
+## PROFESSIONAL BACKGROUND
 
-**8+ Years**
+### 8+ YEARS
 
-Sales · Banking · EdTech · Business Development
+**Sales · Banking · EdTech · Business Development**
 
-**MBA**
+### MBA
 
-Sales & Marketing
+**Sales & Marketing**
 
-**Technical Focus**
+### TECHNICAL FOCUS
 
-Technology · AI · Data · Product Development
+**Technology · AI · Data · Product Development**
 
 ---
 
-# EDUCATION & CONTINUOUS LEARNING
+## EDUCATION & CONTINUOUS LEARNING
 
 My technical development spans **software engineering, data analytics, artificial intelligence, APIs, databases and modern web technologies**.
 
-I continuously work across both sides of the problem:
-
-**Business understanding + Technical execution**
+I continue to build technical depth while applying it through a **business and strategic lens**.
 
 ---
 
@@ -212,10 +206,10 @@ I continuously work across both sides of the problem:
 
 ## BUSINESS × TECHNOLOGY × AI
 
-### Turning business problems into technology-led solutions.
+**Turning business problems into technology-led solutions.**
 
-<br>
+<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![CONNECT ON LINKEDIN](https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://in.linkedin.com/in/suchet-mahajan)
 
 </div>
