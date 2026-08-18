@@ -1,228 +1,215 @@
 <div align="center">
 
-<img src="./assets/suchet-banner.svg" width="100%" alt="Suchet Mahajan — Business × Technology × AI">
+# SUCHET MAHAJAN
+
+### BUSINESS × TECHNOLOGY × AI
+
+**Technology Consulting · Management Consulting · Digital Transformation**
 
 <br>
 
-
-
-
-</div>
-
-ABOUT ME
-
-I bring 8+ years of professional experience across Sales, Banking, EdTech and Business Development, combined with hands-on experience across technology, AI, data and digital products.
-
-My work sits at the intersection of business and technology — understanding the business problem, analysing opportunities, evaluating technology and translating strategy into practical implementation.
-
-I am focused on Technology Consulting and Management Consulting opportunities where business understanding, technology and AI come together to solve complex problems.
-
-BUSINESS → TECHNOLOGY → OUTCOME
-
-<div align="center">
-
-BUSINESS PROBLEM
-
-ANALYSIS
-
-STRATEGY
-
-TECHNOLOGY & AI
-
-IMPLEMENTATION
-
-BUSINESS OUTCOME
-
-Understand
-
-Diagnose
-
-Define
-
-Enable
-
-Execute
-
-Measure
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://in.linkedin.com/in/suchet-mahajan)
+[![X](https://img.shields.io/badge/X-111111?style=for-the-badge\&logo=x\&logoColor=white)](YOUR_X_URL)
+[![CONTACT](https://img.shields.io/badge/CONTACT-B91C1C?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:suchet.mahajan5@gmail.com)
 
 </div>
-
-I start with the problem, not the technology.
-
-CONSULTING CAPABILITIES
-
-<div align="center">
-
-
-
-
-
 
 <br>
 
+<div align="center">
 
-
-
-
-
-<br>
-
-
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=145&section=header&color=0:111827,45:1E3A5F,75:0F766E,100:0F172A" width="100%"/>
 
 </div>
 
-TECHNOLOGY
+---
+
+## ABOUT ME
+
+I bring **8+ years of professional experience across Sales, Banking, EdTech and Business Development**, combined with hands-on experience in **technology, AI, data and digital products**.
+
+My work sits at the intersection of **business and technology** — understanding business problems, analysing opportunities, evaluating technology solutions and translating ideas into practical implementation.
+
+I am now focused on opportunities in **Technology Consulting and Management Consulting**, where business understanding, technology and AI come together to solve complex problems.
+
+---
+
+## BUSINESS → TECHNOLOGY → OUTCOME
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,html,css,git,github,supabase,postgres,vercel,docker,linux&perline=7" alt="Technology stack">
+**BUSINESS PROBLEM**
+
+    ↓
+
+**ANALYSIS**
+
+    ↓
+
+**STRATEGY**
+
+    ↓
+
+**TECHNOLOGY & AI**
+
+    ↓
+
+**IMPLEMENTATION**
+
+    ↓
+
+**BUSINESS OUTCOME**
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **I start with the problem, not the technology.**
+
+</div>
+
+---
+
+## CONSULTING CAPABILITIES
+
+<div align="center">
+
+![Business Strategy](https://img.shields.io/badge/BUSINESS%20STRATEGY-172033?style=for-the-badge)
+![Technology Strategy](https://img.shields.io/badge/TECHNOLOGY%20STRATEGY-172033?style=for-the-badge)
+![Digital Transformation](https://img.shields.io/badge/DIGITAL%20TRANSFORMATION-172033?style=for-the-badge)
+
+![Business Analysis](https://img.shields.io/badge/BUSINESS%20ANALYSIS-172033?style=for-the-badge)
+![AI Strategy](https://img.shields.io/badge/AI%20STRATEGY-172033?style=for-the-badge)
+![Process Optimization](https://img.shields.io/badge/PROCESS%20OPTIMIZATION-172033?style=for-the-badge)
+
+![Product Strategy](https://img.shields.io/badge/PRODUCT%20STRATEGY-172033?style=for-the-badge)
+![Market Analysis](https://img.shields.io/badge/MARKET%20ANALYSIS-172033?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/PROBLEM%20SOLVING-172033?style=for-the-badge)
+
+![Strategic Thinking](https://img.shields.io/badge/STRATEGIC%20THINKING-172033?style=for-the-badge)
+![Stakeholder Management](https://img.shields.io/badge/STAKEHOLDER%20MANAGEMENT-172033?style=for-the-badge)
+![Go To Market](https://img.shields.io/badge/GO--TO--MARKET-172033?style=for-the-badge)
+
+</div>
+
+---
+
+## TECHNOLOGY
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,html,css,git,github,supabase,postgres,vercel,docker,linux&perline=7" />
 
 <br><br>
 
+`REST APIs` · `API Integration` · `AI APIs` · `LLMs` · `AI Agents`
 
+`Automation` · `OAuth` · `Authentication` · `Database Design`
 
-
-
-
-
-<br>
-
-
-
-
-
-
-<br>
-
-
-
-
+`Web Applications` · `Cloud` · `Product Development`
 
 </div>
 
-DATA & ANALYTICS
+---
+
+## DATA & ANALYTICS
 
 <div align="center">
 
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
 
+<br><br>
 
+`Business Analytics` · `Data Analysis` · `Business Intelligence`
 
-
-
-
-<br>
-
-
-
-
-
-<br>
-
-
-
-
-
+`Data Visualization` · `KPI Analysis` · `Forecasting` · `Reporting`
 
 </div>
 
-AI & EMERGING TECHNOLOGY
+---
+
+## AI & EMERGING TECHNOLOGY
 
 <div align="center">
 
+![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-172033?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/GENERATIVE%20AI-172033?style=for-the-badge)
+![Large Language Models](https://img.shields.io/badge/LARGE%20LANGUAGE%20MODELS-172033?style=for-the-badge)
 
-
-
-
-
-
+![AI Agents](https://img.shields.io/badge/AI%20AGENTS-172033?style=for-the-badge)
+![Automation](https://img.shields.io/badge/AUTOMATION-172033?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/PROMPT%20ENGINEERING-172033?style=for-the-badge)
 
 </div>
 
-PROFESSIONAL STRENGTHS
+---
 
-<table>
-<tr>
-<th align="center">BUSINESS</th>
-<th align="center">TECHNOLOGY</th>
-<th align="center">LEADERSHIP</th>
-</tr>
-<tr>
-<td align="center">Business Acumen</td>
-<td align="center">Technology Understanding</td>
-<td align="center">Stakeholder Management</td>
-</tr>
-<tr>
-<td align="center">Strategic Thinking</td>
-<td align="center">AI & Automation</td>
-<td align="center">Cross-functional Collaboration</td>
-</tr>
-<tr>
-<td align="center">Market Understanding</td>
-<td align="center">Data & Analytics</td>
-<td align="center">Communication</td>
-</tr>
-<tr>
-<td align="center">Problem Solving</td>
-<td align="center">Product Thinking</td>
-<td align="center">Team Management</td>
-</tr>
-</table>
-
-SELECTED WORK
-
-My GitHub reflects hands-on work across business analytics, software development, AI, data and technology experimentation.
-
-The objective is not simply to write code, but to understand:
-
-What is the business problem? What does the data tell us? Where can technology create leverage? How can the solution be implemented?
-
-AREAS OF WORK
-
-Business Analysis · Data Analysis · Software Development
-
-AI & Automation · Technology Solutions · Digital Products
-
-PROFESSIONAL BACKGROUND
+## PROFESSIONAL STRENGTHS
 
 <div align="center">
 
-EXPERIENCE
-
-EDUCATION
-
-TECHNICAL FOCUS
-
-8+ YEARS
-
-MBA
-
-TECHNOLOGY · AI · DATA
-
-Sales · Banking · EdTech · Business Development
-
-Sales & Marketing
-
-Product Development
+|       BUSINESS       |        TECHNOLOGY        |           LEADERSHIP           |
+| :------------------: | :----------------------: | :----------------------------: |
+|    Business Acumen   | Technology Understanding |     Stakeholder Management     |
+|  Strategic Thinking  |      AI & Automation     | Cross-functional Collaboration |
+| Market Understanding |     Data & Analytics     |          Communication         |
+|    Problem Solving   |     Product Thinking     |         Team Management        |
 
 </div>
 
-EDUCATION & CONTINUOUS LEARNING
+---
 
-My technical development spans software engineering, data analytics, artificial intelligence, APIs, databases and modern web technologies.
+## SELECTED WORK
 
-I continue to build technical depth while applying it through a business and strategic lens.
+My GitHub reflects hands-on work across **business analytics, software development, AI, data and technology experimentation**.
 
-CURRENT INTERESTS
+The focus is on understanding the problem first and using the right combination of **business analysis, data, technology and AI** to approach it.
 
-Technology Consulting · Management Consulting · AI Strategy · Digital Transformation · Business Strategy · Technology Strategy · Product & Process Optimization
+### Areas of Work
+
+`Business Analysis` · `Data Analysis` · `Software Development`
+
+`AI & Automation` · `Technology Solutions` · `Digital Products`
+
+---
+
+## PROFESSIONAL BACKGROUND
+
+### 8+ YEARS
+
+**Sales · Banking · EdTech · Business Development**
+
+### MBA
+
+**Sales & Marketing**
+
+### TECHNICAL FOCUS
+
+**Technology · AI · Data · Product Development**
+
+---
+
+## EDUCATION & CONTINUOUS LEARNING
+
+My technical development spans **software engineering, data analytics, artificial intelligence, APIs, databases and modern web technologies**.
+
+I continue to build technical depth while applying it through a **business and strategic lens**.
+
+---
 
 <div align="center">
 
-BUSINESS × TECHNOLOGY × AI
+## BUSINESS × TECHNOLOGY × AI
 
-Turning business problems into technology-led solutions.
+**Turning business problems into technology-led solutions.**
+
+<br><br>
+
+[![CONNECT ON LINKEDIN](https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://in.linkedin.com/in/suchet-mahajan)
 
 </div>
