@@ -107,7 +107,7 @@ I am focused on opportunities in **Technology Consulting and Management Consulti
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,html,css,git,github,supabase,postgres,vercel,docker,linux&perline=7" />
 
-<br><br>
+<br>
 
 <a href="#"><img src="https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/API_INTEGRATION-6366F1?style=for-the-badge"></a>
@@ -141,7 +141,7 @@ I am focused on opportunities in **Technology Consulting and Management Consulti
 <a href="#"><img src="https://img.shields.io/badge/PANDAS-4B2E83?style=for-the-badge&logo=pandas&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"></a>
 
-<br><br>
+<br>
 
 <a href="#"><img src="https://img.shields.io/badge/BUSINESS_ANALYTICS-00897B?style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/DATA_ANALYSIS-2563EB?style=for-the-badge"></a>
@@ -264,21 +264,21 @@ Software Development · AI & Automation · Technology Solutions · Digital Produ
 
 <td align="center">
 
-<b>8+ YEARS</b><br><br>
+<b>8+ YEARS</b><br>
 Sales · Banking · EdTech · Business Development
 
 </td>
 
 <td align="center">
 
-<b>MBA</b><br><br>
+<b>MBA</b><br>
 Sales & Marketing
 
 </td>
 
 <td align="center">
 
-<b>TECHNOLOGY · AI · DATA</b><br><br>
+<b>TECHNOLOGY · AI · DATA</b><br>
 Product Development
 
 </td>
