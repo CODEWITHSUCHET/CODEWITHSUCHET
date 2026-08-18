@@ -1,219 +1,230 @@
-::: {.page role="main"}
-::: hero
-::: hero-top
-# SUCHET MAHAJAN
+<div align="center">
 
-::: kicker
+SUCHET MAHAJAN
+
 BUSINESS × TECHNOLOGY × AI
-:::
 
-::: role
 Technology Consulting · Management Consulting · Digital Transformation
-:::
 
-::: actions
-[LINKEDIN](https://in.linkedin.com/in/suchet-mahajan){.btn .linkedin}
-[CONTACT](mailto:suchet.mahajan5@gmail.com){.btn .contact}
-:::
-:::
+<br>
 
-![](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iYmFubmVyIiB2aWV3Ym94PSIwIDAgMTIwMCAzMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZGVmcz48bGluZWFyZ3JhZGllbnQgaWQ9ImciIHgxPSIwIiB4Mj0iMSI+PHN0b3Agc3RvcC1jb2xvcj0iIzExMTgyNyI+PC9zdG9wPjxzdG9wIG9mZnNldD0iLjU1IiBzdG9wLWNvbG9yPSIjMWUzYTVmIj48L3N0b3A+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMGY3NjZlIj48L3N0b3A+PC9saW5lYXJncmFkaWVudD48L2RlZnM+CiAgICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIzMDAiIHJ4PSIxMiIgZmlsbD0idXJsKCNnKSIgLz4KICAgIDxnIG9wYWNpdHk9Ii4xMiIgc3Ryb2tlPSIjZmZmIj48cGF0aCBkPSJNODAgMFYzMDBNMTYwIDBWMzAwTTI0MCAwVjMwME0zMjAgMFYzMDBNNDAwIDBWMzAwTTQ4MCAwVjMwME01NjAgMFYzMDBNNjQwIDBWMzAwTTcyMCAwVjMwME04MDAgMFYzMDBNODgwIDBWMzAwTTk2MCAwVjMwME0xMDQwIDBWMzAwTTExMjAgMFYzMDAiIC8+PHBhdGggZD0iTTAgNjBIMTIwME0wIDEyMEgxMjAwTTAgMTgwSDEyMDBNMCAyNDBIMTIwMCIgLz48L2c+CiAgICA8ZyBvcGFjaXR5PSIuMjgiIHN0cm9rZT0iIzY3ZThmOSIgZmlsbD0ibm9uZSI+PHBhdGggZD0iTTg1MCA1MGwxMjAgNjUgMTIwLTU1IDkwIDgwLTEwMCA3NS0xMjAtMzUtMTEwIDc1IiAvPjxwYXRoIGQ9Ik05NzAgMTE1bC0xMCAxMTBNMTA5MCA2MGwtMTAwIDU1IiAvPjwvZz4KICAgIDxnIGZpbGw9IiM2N2U4ZjkiPjxjaXJjbGUgY3g9Ijg1MCIgY3k9IjUwIiByPSI0Ij48L2NpcmNsZT48Y2lyY2xlIGN4PSI5NzAiIGN5PSIxMTUiIHI9IjQiPjwvY2lyY2xlPjxjaXJjbGUgY3g9IjEwOTAiIGN5PSI2MCIgcj0iNCI+PC9jaXJjbGU+PGNpcmNsZSBjeD0iMTE4MCIgY3k9IjE0MCIgcj0iNCI+PC9jaXJjbGU+PGNpcmNsZSBjeD0iMTA4MCIgY3k9IjIxNSIgcj0iNCI+PC9jaXJjbGU+PGNpcmNsZSBjeD0iOTYwIiBjeT0iMTgwIiByPSI0Ij48L2NpcmNsZT48Y2lyY2xlIGN4PSI4NTAiIGN5PSIyNTUiIHI9IjQiPjwvY2lyY2xlPjwvZz4KICAgIDxsaW5lIHgxPSIxMTAiIHkxPSI4MiIgeDI9IjY4MCIgeTI9IjgyIiBzdHJva2U9IiM1ZWVhZDQiIHN0cm9rZS13aWR0aD0iMiI+PC9saW5lPgogICAgPHRleHQgeD0iMTEwIiB5PSIxNDAiIGZpbGw9IiNmZmYiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIzNyIgZm9udC13ZWlnaHQ9IjcwMCIgbGV0dGVyLXNwYWNpbmc9IjMiPkJVU0lORVNTIMOXIFRFQ0hOT0xPR1kgw5cgQUk8L3RleHQ+CiAgICA8dGV4dCB4PSIxMTAiIHk9IjE4MCIgZmlsbD0iI2RiZWFmZSIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjE2IiBsZXR0ZXItc3BhY2luZz0iMS4yIj5URUNITk9MT0dZIENPTlNVTFRJTkcgIOKAoiAgTUFOQUdFTUVOVCBDT05TVUxUSU5HPC90ZXh0PgogICAgPHRleHQgeD0iMTEwIiB5PSIyMDciIGZpbGw9IiM5NGEzYjgiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMyI+RElHSVRBTCBUUkFOU0ZPUk1BVElPTiAg4oCiICBBSSBTVFJBVEVHWSAg4oCiICBCVVNJTkVTUyBBTkFMWVNJUzwvdGV4dD4KICA8L3N2Zz4=){.banner}
-:::
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN">
+<img src="https://img.shields.io/badge/CONTACT-172033?style=for-the-badge&logo=gmail&logoColor=white" alt="CONTACT">
 
-::: section
-## ABOUT ME
+</div>
 
-::: lead
-I bring **8+ years of professional experience across Sales, Banking,
-EdTech and Business Development**, combined with hands-on experience
-across **technology, AI, data and digital products**.\
-\
-My work sits at the intersection of **business and technology** ---
-understanding business problems, analysing opportunities, evaluating
-technology solutions and translating ideas into practical
-implementation.\
-\
-I am focused on opportunities in **Technology Consulting and Management
-Consulting**, where business understanding, technology and AI come
-together to solve complex problems.
-:::
-:::
+<br>
 
-::: section
-## BUSINESS → TECHNOLOGY → OUTCOME
+<img src="./assets/suchet-banner.svg" width="100%" alt="Business × Technology × AI">
 
-::: flow
-::: {.step style="border-color:#2563eb"}
-**BUSINESS PROBLEM**[Understand]{.small}
-:::
+<hr>
 
-::: {.step style="border-color:#0891b2"}
-**ANALYSIS**[Diagnose]{.small}
-:::
+ABOUT ME
 
-::: {.step style="border-color:#4f46e5"}
-**STRATEGY**[Define]{.small}
-:::
+I bring 8+ years of professional experience across Sales, Banking, EdTech and Business Development, combined with hands-on experience across technology, AI, data and digital products.
 
-::: {.step style="border-color:#7c3aed"}
-**TECHNOLOGY & AI**[Enable]{.small}
-:::
+My work sits at the intersection of business and technology — understanding business problems, analysing opportunities, evaluating technology solutions and translating ideas into practical implementation.
 
-::: {.step style="border-color:#ea580c"}
-**IMPLEMENTATION**[Execute]{.small}
-:::
+I am focused on opportunities in Technology Consulting and Management Consulting, where business understanding, technology and AI come together to solve complex problems.
 
-::: {.step style="border-color:#0f766e"}
-**BUSINESS OUTCOME**[Measure]{.small}
-:::
-:::
-:::
+<hr>
 
-::: section
-## CONSULTING CAPABILITIES
+BUSINESS → TECHNOLOGY → OUTCOME
 
-::: {.badges .consult}
-[BUSINESS STRATEGY]{.badge}[TECHNOLOGY STRATEGY]{.badge}[DIGITAL
-TRANSFORMATION]{.badge}[AI STRATEGY]{.badge} [BUSINESS
-ANALYSIS]{.badge}[PROCESS OPTIMIZATION]{.badge}[PRODUCT
-STRATEGY]{.badge}[MARKET ANALYSIS]{.badge} [PROBLEM
-SOLVING]{.badge}[STRATEGIC THINKING]{.badge}[STAKEHOLDER
-MANAGEMENT]{.badge}[GO TO MARKET]{.badge}
-:::
-:::
+<table>
+<tr>
+<td align="center"><b>BUSINESS PROBLEM</b><br><sub>Understand</sub></td>
+<td align="center"><b>ANALYSIS</b><br><sub>Diagnose</sub></td>
+<td align="center"><b>STRATEGY</b><br><sub>Define</sub></td>
+<td align="center"><b>TECHNOLOGY & AI</b><br><sub>Enable</sub></td>
+<td align="center"><b>IMPLEMENTATION</b><br><sub>Execute</sub></td>
+<td align="center"><b>BUSINESS OUTCOME</b><br><sub>Measure</sub></td>
+</tr>
+</table>
 
-::: section
-## TECHNOLOGY
+<hr>
 
-::: stack
-:::
+CONSULTING CAPABILITIES
 
-::: badges
-[REST APIs]{.badge style="background:#ff6c37"}[API INTEGRATION]{.badge
-style="background:#6c47ff"}[AI APIs]{.badge
-style="background:#412991"}[LLMs]{.badge style="background:#111827"}[AI
-AGENTS]{.badge style="background:#0f766e"} [AUTOMATION]{.badge
-style="background:#2563eb"}[OAUTH]{.badge
-style="background:#eb5424"}[AUTHENTICATION]{.badge
-style="background:#172033"}[DATABASE DESIGN]{.badge
-style="background:#336791"} [WEB APPLICATIONS]{.badge
-style="background:#0891b2"}[CLOUD]{.badge
-style="background:#4285f4"}[PRODUCT DEVELOPMENT]{.badge
-style="background:#111827"}
-:::
-:::
+<div align="center">
 
-::: section
-## DATA & ANALYTICS
+<img src="https://img.shields.io/badge/BUSINESS%20STRATEGY-2563EB?style=for-the-badge" alt="BUSINESS STRATEGY">
+<img src="https://img.shields.io/badge/TECHNOLOGY%20STRATEGY-4F46E5?style=for-the-badge" alt="TECHNOLOGY STRATEGY">
+<img src="https://img.shields.io/badge/DIGITAL%20TRANSFORMATION-7C3AED?style=for-the-badge" alt="DIGITAL TRANSFORMATION">
+<img src="https://img.shields.io/badge/AI%20STRATEGY-9333EA?style=for-the-badge" alt="AI STRATEGY">
 
-::: badges
-[SQL]{.badge style="background:#336791"}[PANDAS]{.badge
-style="background:#150458"}[EXCEL]{.badge
-style="background:#217346"}[POWER BI]{.badge
-style="background:#f2c811;color:#111827"}[TABLEAU]{.badge
-style="background:#e97627"} [BUSINESS ANALYTICS]{.badge
-style="background:#0f766e"}[DATA ANALYSIS]{.badge
-style="background:#2563eb"}[BUSINESS INTELLIGENCE]{.badge
-style="background:#742774"} [DATA VISUALIZATION]{.badge
-style="background:#e97627"}[KPI ANALYSIS]{.badge
-style="background:#172033"}[FORECASTING]{.badge
-style="background:#0891b2"}[REPORTING]{.badge
-style="background:#475569"}
-:::
-:::
+<br>
 
-::: section
-## AI & EMERGING TECHNOLOGY
+<img src="https://img.shields.io/badge/BUSINESS%20ANALYSIS-0891B2?style=for-the-badge" alt="BUSINESS ANALYSIS">
+<img src="https://img.shields.io/badge/PROCESS%20OPTIMIZATION-0F766E?style=for-the-badge" alt="PROCESS OPTIMIZATION">
+<img src="https://img.shields.io/badge/PRODUCT%20STRATEGY-EA580C?style=for-the-badge" alt="PRODUCT STRATEGY">
+<img src="https://img.shields.io/badge/MARKET%20ANALYSIS-DB2777?style=for-the-badge" alt="MARKET ANALYSIS">
 
-::: badges
-[ARTIFICIAL INTELLIGENCE]{.badge style="background:#412991"}[GENERATIVE
-AI]{.badge style="background:#6e40c9"}[LARGE LANGUAGE MODELS]{.badge
-style="background:#111827"}[AI AGENTS]{.badge
-style="background:#0f766e"}[AUTOMATION]{.badge
-style="background:#2563eb"}[PROMPT ENGINEERING]{.badge
-style="background:#334155"}
-:::
-:::
+<br>
 
-::: section
-## PROFESSIONAL STRENGTHS
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-0284C7?style=for-the-badge" alt="PROBLEM SOLVING">
+<img src="https://img.shields.io/badge/STRATEGIC%20THINKING-06B6D4?style=for-the-badge" alt="STRATEGIC THINKING">
+<img src="https://img.shields.io/badge/STAKEHOLDER%20MANAGEMENT-7C3AED?style=for-the-badge" alt="STAKEHOLDER MANAGEMENT">
+<img src="https://img.shields.io/badge/GO%20TO%20MARKET-C026D3?style=for-the-badge" alt="GO TO MARKET">
 
-  BUSINESS               TECHNOLOGY                 LEADERSHIP
-  ---------------------- -------------------------- --------------------------------
-  Business Acumen        Technology Understanding   Stakeholder Management
-  Strategic Thinking     AI & Automation            Cross-functional Collaboration
-  Market Understanding   Data & Analytics           Communication
-  Problem Solving        Product Thinking           Team Management
-:::
+</div>
 
-::: section
-## SELECTED WORK
+<hr>
 
-::: two
-::: card
-### BUSINESS & ANALYTICS
+TECHNOLOGY
 
-::: chips
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"><br><sub>Python</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="42" alt="TypeScript"><br><sub>TypeScript</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="42" alt="JavaScript"><br><sub>JavaScript</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="42" alt="React"><br><sub>React</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js"><br><sub>Node.js</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="42" alt="HTML"><br><sub>HTML</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS"><br><sub>CSS</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"><br><sub>Git</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"><br><sub>GitHub</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="42" alt="Supabase"><br><sub>Supabase</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="42" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="42" alt="Vercel"><br><sub>Vercel</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker"><br><sub>Docker</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="42" alt="Linux"><br><sub>Linux</sub></td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge" alt="REST APIs">
+<img src="https://img.shields.io/badge/API%20INTEGRATION-6C47FF?style=for-the-badge" alt="API INTEGRATION">
+<img src="https://img.shields.io/badge/AI%20APIs-412991?style=for-the-badge" alt="AI APIs">
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="LLMs">
+<img src="https://img.shields.io/badge/AI%20AGENTS-0F766E?style=for-the-badge" alt="AI AGENTS">
+
+<br>
+
+<img src="https://img.shields.io/badge/AUTOMATION-2563EB?style=for-the-badge" alt="AUTOMATION">
+<img src="https://img.shields.io/badge/OAUTH-EB5424?style=for-the-badge" alt="OAUTH">
+<img src="https://img.shields.io/badge/AUTHENTICATION-172033?style=for-the-badge" alt="AUTHENTICATION">
+<img src="https://img.shields.io/badge/DATABASE%20DESIGN-336791?style=for-the-badge" alt="DATABASE DESIGN">
+
+<br>
+
+<img src="https://img.shields.io/badge/WEB%20APPLICATIONS-0891B2?style=for-the-badge" alt="WEB APPLICATIONS">
+<img src="https://img.shields.io/badge/CLOUD-4285F4?style=for-the-badge" alt="CLOUD">
+<img src="https://img.shields.io/badge/PRODUCT%20DEVELOPMENT-111827?style=for-the-badge" alt="PRODUCT DEVELOPMENT">
+
+</div>
+
+<hr>
+
+DATA & ANALYTICS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="PANDAS">
+<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="EXCEL">
+<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="POWER BI">
+<img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="TABLEAU">
+
+<br>
+
+<img src="https://img.shields.io/badge/BUSINESS%20ANALYTICS-0F766E?style=for-the-badge" alt="BUSINESS ANALYTICS">
+<img src="https://img.shields.io/badge/DATA%20ANALYSIS-2563EB?style=for-the-badge" alt="DATA ANALYSIS">
+<img src="https://img.shields.io/badge/BUSINESS%20INTELLIGENCE-742774?style=for-the-badge" alt="BUSINESS INTELLIGENCE">
+
+<br>
+
+<img src="https://img.shields.io/badge/DATA%20VISUALIZATION-E97627?style=for-the-badge" alt="DATA VISUALIZATION">
+<img src="https://img.shields.io/badge/KPI%20ANALYSIS-172033?style=for-the-badge" alt="KPI ANALYSIS">
+<img src="https://img.shields.io/badge/FORECASTING-0891B2?style=for-the-badge" alt="FORECASTING">
+<img src="https://img.shields.io/badge/REPORTING-475569?style=for-the-badge" alt="REPORTING">
+
+</div>
+
+<hr>
+
+AI & EMERGING TECHNOLOGY
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-412991?style=for-the-badge" alt="ARTIFICIAL INTELLIGENCE">
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-6E40C9?style=for-the-badge" alt="GENERATIVE AI">
+<img src="https://img.shields.io/badge/LARGE%20LANGUAGE%20MODELS-111827?style=for-the-badge" alt="LARGE LANGUAGE MODELS">
+<img src="https://img.shields.io/badge/AI%20AGENTS-0F766E?style=for-the-badge" alt="AI AGENTS">
+<img src="https://img.shields.io/badge/AUTOMATION-2563EB?style=for-the-badge" alt="AUTOMATION">
+<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-334155?style=for-the-badge" alt="PROMPT ENGINEERING">
+
+</div>
+
+<hr>
+
+PROFESSIONAL STRENGTHS
+
+<table>
+<tr><th>BUSINESS</th><th>TECHNOLOGY</th><th>LEADERSHIP</th></tr>
+<tr><td>Business Acumen</td><td>Technology Understanding</td><td>Stakeholder Management</td></tr>
+<tr><td>Strategic Thinking</td><td>AI & Automation</td><td>Cross-functional Collaboration</td></tr>
+<tr><td>Market Understanding</td><td>Data & Analytics</td><td>Communication</td></tr>
+<tr><td>Problem Solving</td><td>Product Thinking</td><td>Team Management</td></tr>
+</table>
+
+<hr>
+
+SELECTED WORK
+
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>BUSINESS & ANALYTICS</h3>
 Business Analysis · Data Analysis · Market Analysis · KPI Analysis
-:::
-:::
+</td>
+<td width="50%" align="center">
+<h3>TECHNOLOGY & AI</h3>
+Software Development · AI & Automation · Technology Solutions · Digital Products
+</td>
+</tr>
+</table>
 
-::: card
-### TECHNOLOGY & AI
+<hr>
 
-::: chips
-Software Development · AI & Automation · Technology Solutions · Digital
-Products
-:::
-:::
-:::
-:::
+PROFESSIONAL BACKGROUND
 
-::: section
-## PROFESSIONAL BACKGROUND
+<table>
+<tr><th>EXPERIENCE</th><th>EDUCATION</th><th>TECHNICAL FOCUS</th></tr>
+<tr><td><b>8+ YEARS</b><br>Sales · Banking · EdTech · Business Development</td><td><b>MBA</b><br>Sales & Marketing</td><td><b>TECHNOLOGY · AI · DATA</b><br>Product Development</td></tr>
+</table>
 
-  -----------------------------------------------------------------------
-  EXPERIENCE              EDUCATION               TECHNICAL FOCUS
-  ----------------------- ----------------------- -----------------------
-  **8+ YEARS**\           **MBA**\                **TECHNOLOGY · AI ·
-  Sales · Banking ·       Sales & Marketing       DATA**\
-  EdTech · Business                               Product Development
-  Development                                     
+<hr>
 
-  -----------------------------------------------------------------------
-:::
+EDUCATION & CONTINUOUS LEARNING
 
-::: section
-## EDUCATION & CONTINUOUS LEARNING
+My technical development spans software engineering, data analytics, artificial intelligence, APIs, databases and modern web technologies.
 
-::: lead
-My technical development spans **software engineering, data analytics,
-artificial intelligence, APIs, databases and modern web technologies**.\
-\
-I continue to build technical depth while applying it through a
-**business and strategic lens**.
-:::
-:::
+I continue to build technical depth while applying it through a business and strategic lens.
 
-::: section
-## CURRENT INTERESTS
+<hr>
 
-::: {.center .lead}
-**Technology Consulting · Management Consulting · AI Strategy · Digital
-Transformation**\
-\
-**Business Strategy · Technology Strategy · Product Strategy · Process
-Optimization**
-:::
-:::
+CURRENT INTERESTS
 
-::: footer
-**BUSINESS × TECHNOLOGY × AI**
+<div align="center">
 
-<div>
+Technology Consulting · Management Consulting · AI Strategy · Digital Transformation
+
+<br>
+
+Business Strategy · Technology Strategy · Product Strategy · Process Optimization
+
+</div>
+
+<hr>
+
+<div align="center">
+
+BUSINESS × TECHNOLOGY × AI
 
 Turning business problems into technology-led solutions.
 
 </div>
-:::
-:::
