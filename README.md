@@ -8,8 +8,8 @@ Technology Consulting · Management Consulting · Digital Transformation
 
 <br>
 
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN">
-<img src="https://img.shields.io/badge/CONTACT-172033?style=for-the-badge&logo=gmail&logoColor=white" alt="CONTACT">
+<a href="https://in.linkedin.com/in/suchet-mahajan"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LINKEDIN"></a>
+<a href="mailto:suchet.mahajan5@gmail.com"><img src="https://img.shields.io/badge/CONTACT-172033?style=for-the-badge" alt="CONTACT"></a>
 
 </div>
 
@@ -76,22 +76,7 @@ TECHNOLOGY
 <div align="center">
 
 <table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"><br><sub>Python</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="42" alt="TypeScript"><br><sub>TypeScript</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="42" alt="JavaScript"><br><sub>JavaScript</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="42" alt="React"><br><sub>React</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js"><br><sub>Node.js</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="42" alt="HTML"><br><sub>HTML</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS"><br><sub>CSS</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"><br><sub>Git</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"><br><sub>GitHub</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="42" alt="Supabase"><br><sub>Supabase</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="42" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="42" alt="Vercel"><br><sub>Vercel</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker"><br><sub>Docker</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="42" alt="Linux"><br><sub>Linux</sub></td>
-</tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"><br><sub>Python</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="42" alt="TypeScript"><br><sub>TypeScript</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="42" alt="JavaScript"><br><sub>JavaScript</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=react" width="42" alt="React"><br><sub>React</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js"><br><sub>Node.js</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=html" width="42" alt="HTML"><br><sub>HTML</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS"><br><sub>CSS</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"><br><sub>Git</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"><br><sub>GitHub</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="42" alt="Supabase"><br><sub>Supabase</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="42" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="42" alt="Vercel"><br><sub>Vercel</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker"><br><sub>Docker</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=linux" width="42" alt="Linux"><br><sub>Linux</sub></td></tr>
 </table>
 
 <br>
@@ -123,11 +108,11 @@ DATA & ANALYTICS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="PANDAS">
-<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="EXCEL">
-<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="POWER BI">
-<img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="TABLEAU">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL">
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge" alt="PANDAS">
+<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge" alt="EXCEL">
+<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge" alt="POWER BI">
+<img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge" alt="TABLEAU">
 
 <br>
 
