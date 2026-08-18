@@ -1,11 +1,8 @@
-SUCHET MAHAJAN
-
-BUSINESS × TECHNOLOGY × AI
-
-Technology Consulting · Management Consulting · Digital Transformation
-
 <div align="center">
 
+<img src="./assets/suchet-banner.svg" width="100%" alt="Suchet Mahajan — Business × Technology × AI">
+
+<br>
 
 
 
@@ -14,11 +11,11 @@ Technology Consulting · Management Consulting · Digital Transformation
 
 ABOUT ME
 
-I bring 8+ years of professional experience across Sales, Banking, EdTech and Business Development, combined with hands-on experience in technology, AI, data and digital products.
+I bring 8+ years of professional experience across Sales, Banking, EdTech and Business Development, combined with hands-on experience across technology, AI, data and digital products.
 
-My work sits at the intersection of business and technology — understanding business problems, analysing opportunities, evaluating technology solutions and translating ideas into practical implementation.
+My work sits at the intersection of business and technology — understanding the business problem, analysing opportunities, evaluating technology and translating strategy into practical implementation.
 
-I am now focused on opportunities in Technology Consulting and Management Consulting, where business understanding, technology and AI come together to solve complex problems.
+I am focused on Technology Consulting and Management Consulting opportunities where business understanding, technology and AI come together to solve complex problems.
 
 BUSINESS → TECHNOLOGY → OUTCOME
 
@@ -26,25 +23,27 @@ BUSINESS → TECHNOLOGY → OUTCOME
 
 BUSINESS PROBLEM
 
-↓
-
 ANALYSIS
-
-↓
 
 STRATEGY
 
-↓
-
 TECHNOLOGY & AI
-
-↓
 
 IMPLEMENTATION
 
-↓
-
 BUSINESS OUTCOME
+
+Understand
+
+Diagnose
+
+Define
+
+Enable
+
+Execute
+
+Measure
 
 </div>
 
@@ -79,7 +78,7 @@ TECHNOLOGY
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,html,css,git,github,supabase,postgres,vercel,docker,linux&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,html,css,git,github,supabase,postgres,vercel,docker,linux&perline=7" alt="Technology stack">
 
 <br><br>
 
@@ -139,51 +138,48 @@ AI & EMERGING TECHNOLOGY
 
 
 
-<br>
-
-
 
 </div>
 
 PROFESSIONAL STRENGTHS
 
-BUSINESS
-
-TECHNOLOGY
-
-LEADERSHIP
-
-Business Acumen
-
-Technology Understanding
-
-Stakeholder Management
-
-Strategic Thinking
-
-AI & Automation
-
-Cross-functional Collaboration
-
-Market Understanding
-
-Data & Analytics
-
-Communication
-
-Problem Solving
-
-Product Thinking
-
-Team Management
+<table>
+<tr>
+<th align="center">BUSINESS</th>
+<th align="center">TECHNOLOGY</th>
+<th align="center">LEADERSHIP</th>
+</tr>
+<tr>
+<td align="center">Business Acumen</td>
+<td align="center">Technology Understanding</td>
+<td align="center">Stakeholder Management</td>
+</tr>
+<tr>
+<td align="center">Strategic Thinking</td>
+<td align="center">AI & Automation</td>
+<td align="center">Cross-functional Collaboration</td>
+</tr>
+<tr>
+<td align="center">Market Understanding</td>
+<td align="center">Data & Analytics</td>
+<td align="center">Communication</td>
+</tr>
+<tr>
+<td align="center">Problem Solving</td>
+<td align="center">Product Thinking</td>
+<td align="center">Team Management</td>
+</tr>
+</table>
 
 SELECTED WORK
 
 My GitHub reflects hands-on work across business analytics, software development, AI, data and technology experimentation.
 
-The focus is on understanding the problem first and using the right combination of business analysis, data, technology and AI to approach it.
+The objective is not simply to write code, but to understand:
 
-Areas of Work
+What is the business problem? What does the data tell us? Where can technology create leverage? How can the solution be implemented?
+
+AREAS OF WORK
 
 Business Analysis · Data Analysis · Software Development
 
@@ -191,17 +187,27 @@ AI & Automation · Technology Solutions · Digital Products
 
 PROFESSIONAL BACKGROUND
 
-8+ YEARS
+<div align="center">
 
-Sales · Banking · EdTech · Business Development
+EXPERIENCE
 
-MBA
-
-Sales & Marketing
+EDUCATION
 
 TECHNICAL FOCUS
 
-Technology · AI · Data · Product Development
+8+ YEARS
+
+MBA
+
+TECHNOLOGY · AI · DATA
+
+Sales · Banking · EdTech · Business Development
+
+Sales & Marketing
+
+Product Development
+
+</div>
 
 EDUCATION & CONTINUOUS LEARNING
 
@@ -213,9 +219,9 @@ CURRENT INTERESTS
 
 Technology Consulting · Management Consulting · AI Strategy · Digital Transformation · Business Strategy · Technology Strategy · Product & Process Optimization
 
-BUSINESS × TECHNOLOGY × AI
-
 <div align="center">
+
+BUSINESS × TECHNOLOGY × AI
 
 Turning business problems into technology-led solutions.
 
